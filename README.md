@@ -32,9 +32,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white).
 
-<div align="center">
-  <h1>GitHub Stats Extended</h1>
-  <p>Dynamically generate GitHub stats for your READMEs.</p>
+<div align="left">
 <a href="https://github-stats-extended.vercel.app/api?username=miguelestradam3"><img src="https://github-stats-extended.vercel.app/api?username=miguelestradam3"></a>
 </div>
 
